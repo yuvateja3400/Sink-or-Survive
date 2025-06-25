@@ -1,4 +1,3 @@
-Based on the provided sources, I can compile a "README" file that summarises the **Titanic Data Analysis: Pre-Processing and Data Visualisation** project. This README outlines the steps taken, analyses performed, and key insights gained from the Titanic dataset.
 
 ---
 
